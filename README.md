@@ -1,2 +1,4 @@
 # hello-world
-First time using Git.
+Git tutorial
+
+Matej Glejtek - student, programmer, ICT analyst.
